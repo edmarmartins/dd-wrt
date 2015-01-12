@@ -1,0 +1,19 @@
+60:BE:B5:D4:EF:82,Moto X Edmar
+EC:88:92:42:F4:26,Moto G Georgia
+14:1A:A3:2C:6E:9C,Moto Maxx Edmar
+9C:D9:17:8A:E5:C4,Moto G Ivany
+60:BE:B5:9E:62:D6,Moto G Sumaia
+78:6C:1C:9E:79:AE,iPhone 5 Otavio
+EC:88:92:43:4A:34,Moto G Alcides
+F8:E0:79:03:75:47,Moto G Claudio
+B4:62:93:6D:02:6D,Telefone Samsung Elber
+64:77:91:13:BC:FF,Telefone Samsung Aline
+14:F4:2A:AE:0E:8B,Tablet Samsung Claudio
+14:99:E2:E1:73:88,iPad Elber
+5C:A3:9D:14:B6:A8,TV Edmar
+5C:A3:9D:21:BB:2D,TV Claduio
+BC:8C:CD:8D:6A:A5,TV Elber
+90:2B:34:F0:46:B2,PC Edmar
+70:F1:A1:5F:D2:F3,Notebook Claudio
+90:84:0D:F3:B7:16,Mac Mini Edmar
+F0:4D:A2:E3:73:6A,PC Elber
